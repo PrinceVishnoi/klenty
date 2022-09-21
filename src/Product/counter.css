@@ -1,0 +1,20 @@
+.button1{
+    height: 30px;
+    width: 100px;
+    border-radius: 50px;
+    background-color: rgb(43, 196, 140);
+}
+.button2{
+    height: 30px;
+    width: 100px;
+    border-radius: 50px;
+    background-color: rgb(43, 196, 140);
+}
+.buttonsboth{
+    margin-left: 30px;
+   margin-top: 50px;
+}
+.no{
+    border: 2px solid black;
+    border-radius: 8px;
+}
